@@ -31,7 +31,7 @@ form{
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
 } 
-/* *{
+*{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -39,11 +39,11 @@ form{
     color:white;
     font-size: large;
 }
-/* label{
+label{
     font-size: 30px;
     text-align: center;
 }
-h2{
+/* h2{
     text-align: center;
     text-transform: uppercase;
     font-family: 'Inknut Antiqua';
@@ -91,4 +91,4 @@ button{
     text-align: center;
 }
  
-  */ */ */ */ */ */ */ */
+  */ */ */ */ */ */ */ */ */
