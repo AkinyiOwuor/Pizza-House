@@ -21,20 +21,20 @@ function totalPizzaAmount(){
     prompt("Enter your location for delivery purposes")
     alert('Your order will be delivered to your place at a cost of Ksh 200')
 }
-// $(document).ready(function(){
-//     $("#submit").click(function(event){
-//         event.preventDefault();
-//         var name=$("#name").val();
-//         var email=$("#email").val();
-//         var message=$("#message");
-//         if(name ==''||email ==''||message ==''){
-//             alert("Please let us here from you!");
-//         }
-//         else{
-//             alert(" Thank you " + name + " we have received your message.")
-//         }
-//     })
-// })
+ $(document).ready(function(){
+     $("#submit").click(function(event){
+         event.preventDefault();
+         var name=$("#name").val();
+         var email=$("#email").val();
+         var message=$("#message");
+         if(name ==''||email ==''||message ==''){
+            alert("Please let us here from you!");
+        }
+         else{
+             alert(" Thank you " + name + " we have received your message.")
+        }
+    })
+ })
 
 
 
