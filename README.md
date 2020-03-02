@@ -1,4 +1,4 @@
- <!-- # Application Name
+# Application Name
 Momentum Pizza House
 
 ## Description
@@ -29,7 +29,7 @@ CONTACTS:AT The contacts section we have where you insert you name,email-adress 
 ## Set Up Instruction
 * Open your terminal (ctrl+alt+T).
 * Initialize git on your terminal.
-* git clone 00000000000000000000000000000000000.
+* git clone https://akinyiowuor.github.io/Pizza-House/.
 * open the 'pizza' folder.
 * Open the file named index.html on your preferred internet browser.
 * Enter your pizza of choice into the input boxes.
@@ -37,7 +37,7 @@ CONTACTS:AT The contacts section we have where you insert you name,email-adress 
 * Wait for the response from the web application to show you that the pizza is being delivered.
 
 ## Live Link
-  
+  https://akinyiowuor.github.io/Pizza-House/.
 
 ## Contact Information
 Email-Address:owuorrachel@gmail.com
@@ -50,4 +50,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
